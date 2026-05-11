@@ -275,3 +275,6 @@ else:
 ```
 ## Output:
 <img width="420" height="46" alt="image" src="https://github.com/user-attachments/assets/256070b2-a1e8-49a0-9b1d-dc45e43855c9" />
+
+## RESULT:
+Thus,the program was verified successfully.
